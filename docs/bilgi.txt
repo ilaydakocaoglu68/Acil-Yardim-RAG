@@ -1,0 +1,2 @@
+Acil Durum Numaraları: Türkiye'de genel acil durum numarası 112'dir.
+Proje Amacı: Bu proje tamamen yerel olarak çalışan gizli bir RAG sistemidir.

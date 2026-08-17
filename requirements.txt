@@ -1,0 +1,12 @@
+pypdf
+langchain
+langchain-core
+langchain-text-splitters
+langchain-community
+langchain-huggingface
+langchain-chroma
+sentence-transformers
+chromadb
+foundry-local-sdk
+streamlit
+openai
