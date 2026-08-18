@@ -1,6 +1,6 @@
 # 🚑 Acil Yardım RAG
 
-Türkçe ilk yardım dokümanları üzerinden çalışan, yerel yapay zekâ destekli bir
+ilk yardım dokümanları üzerinden çalışan, yerel yapay zekâ destekli bir
 Retrieval-Augmented Generation (RAG) uygulamasıdır.
 
 ## 📌 Proje Hakkında
