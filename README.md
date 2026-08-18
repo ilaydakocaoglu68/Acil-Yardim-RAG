@@ -5,7 +5,7 @@ Retrieval-Augmented Generation (RAG) uygulamasıdır.
 
 ## 📌 Proje Hakkında
 
-Bu projenin amacı, ilk yardım konusunda kullanıcı tarafından sorulan sorulara,
+Bu uygulamanın amacı, ilk yardım konusunda kullanıcı tarafından sorulan sorulara,
 proje içerisinde bulunan PDF dokümanlarından ilgili bilgileri getirerek cevap
 vermektir.
 
